@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Program
 {
-	private static int n = 6;
+    private static int n = 6;
     private static string ast;
     private static string spc;
     private static int x = 1;
